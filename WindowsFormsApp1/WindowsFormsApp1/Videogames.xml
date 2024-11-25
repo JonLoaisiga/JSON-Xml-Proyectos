@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Videogames>
+	<Videogame>
+		<Nombre>Grand theft Auto V</Nombre>
+
+		<Genero>Mundo abierto</Genero>
+		<Plataforma>PC,PS4,PS5</Plataforma>
+		<Año>2013</Año>
+		<Peso>90</Peso>
+		<!-- Peso en GB -->
+		<Precio>35</Precio>
+	</Videogame>
+	<Videogame>
+		<Nombre>Pokemon Rojo Fuejo</Nombre>
+		<Genero>Aventura</Genero>
+		<Plataforma>Nintendo Switch </Plataforma>
+		<Año>2004</Año>
+		<Peso>16</Peso>
+		<!-- Peso en MB -->
+		<Precio>80</Precio>
+	</Videogame>
+	<Videogame>
+		<Nombre>Pokemon Verde Hoja</Nombre>
+		<Genero>Aventura</Genero>
+		<Plataforma>Nintendo Switch </Plataforma>
+		<Año>2004</Año>
+		<Peso>16 </Peso>
+		<!-- Peso en MB -->
+		<Precio>80</Precio>
+	</Videogame>
+	<Videogame>
+		<Nombre>Minecraft</Nombre>
+		<Genero>Sandbox</Genero>
+		<Plataforma>MultiPlataforma</Plataforma>
+		<Año>2011</Año>
+		<Peso>1</Peso>
+		<!-- Peso en GB -->
+		<Precio>30</Precio>
+	</Videogame>
+	<Videogame>
+		<Nombre>Fortnite</Nombre>
+		<Genero>Battle Royale,Shooter</Genero>
+		<Plataforma>Multiplataforma</Plataforma>
+		<Año>2017</Año>
+		<Peso>30</Peso>
+		<!-- Peso en GB -->
+		<Precio>Gratuito</Precio>
+	</Videogame>
+	<Videogame>
+		<Nombre>Red Dead Redemption 2: Ultimate Edition</Nombre>
+		<Genero>Accion,Mundo Avierto</Genero>
+		<Plataforma>PC, PlayStation 4, Xbox One</Plataforma>
+		<Año>2018</Año>
+		<Peso>130</Peso>
+		<!-- Peso en GB -->
+		<Precio>100</Precio>
+	</Videogame>
+	<Videogame>
+		<Nombre>Edición Ultimate de DRAGON BALL: Sparking! ZERO</Nombre>
+		<Genero>Lucha,Accion</Genero>
+		<Plataforma>PC,PS5</Plataforma>
+		<Año>2024</Año>
+		<Peso>29</Peso>
+		<!-- Peso en GB -->
+		<Precio>88</Precio>
+	</Videogame>
+</Videogames>
+			
+		
+		
+		
+		
+		
